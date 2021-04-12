@@ -42,7 +42,7 @@ func main() {
 			fmt.Println("no change")
 		}
 
-		time.Sleep(time.Minute)
+		time.Sleep(time.Minute / 2)
 	}
 }
 
