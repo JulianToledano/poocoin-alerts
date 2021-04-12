@@ -31,7 +31,7 @@
   "0xe3c40ca5a0d8b48c45a2609e558cea98c5805351": true,
   "0xce5814efff15d53efd8025b9f2006d4d7d640b9b": {
     "banner": "/images/promotions/moonstar1.jpg",
-    "website": "https://moonstar.biz",
+    "website": "https://moonstartoken.com/",
     "telegram": "https://t.me/moonstarchat"
   },
   "0x0cf011a946f23a03ceff92a4632d5f9288c6c70d": {
@@ -172,9 +172,8 @@
     "telegram": "https://t.me/foxfinancebsc"
   },
   "0x2e841bf1a959f5edcdc320053810ad86396f05ed": {
-    "banner": "/images/promotions/jetmoon.jpg",
-    "website": "https://jetmoon.me/",
-    "telegram": "https://t.me/jetmoon"
+    "telegram": "https://t.me/jetmoon_revival",
+    "notes": "Jetmoon revival telegram: https://t.me/jetmoon_revival"
   },
   "0x4f47bdf3bb50329d5386ca1ac7103ab859691535": {
     "banner": "/images/promotions/polar.png",
