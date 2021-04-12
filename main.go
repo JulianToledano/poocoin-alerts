@@ -35,14 +35,16 @@ func main() {
 		if response != string(lastResponse) {
 			ioutil.WriteFile("./last_response.txt", []byte(response), 0644)
 			//email
-			fmt.Println("change")
+			fmt.Println("THERE WAS A ChaNGE!!")
 			sendEmail()
 		} else {
 			// do nothing
 			fmt.Println("no change")
+			// sendEmail()
+
 		}
 
-		time.Sleep(time.Minute / 2)
+		time.Sleep(time.Minute / 4)
 	}
 }
 
